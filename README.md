@@ -6,13 +6,14 @@ Welcome to my awesome portfolio website! This project showcases my skills, proje
 
 🌐 Live Demo - 
 
-Check out the live demo -
+Check out the live demo - https://nipunika1721.github.io/TAIRP-TASK1/
 
 🛠️ Built With
 
 HTML - Structure of the website.
 CSS - Styling to make it visually appealing.
 JavaScript - Adding dynamic elements for an enhanced user experience.
+
 🌟 Features
 
 Responsive design for various devices.
